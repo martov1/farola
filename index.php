@@ -27,9 +27,9 @@
     <body class="homepage">
 
         <!-- Header -->
-<?php
-require './app/view/templates/header.php';
-?>
+        <?php
+        require './app/view/templates/header.php';
+        ?>
         <!-- Header -->
 
         <!-- Main -->
@@ -43,28 +43,28 @@ require './app/view/templates/header.php';
                         <section>
                             <a href="#" class="image full"><img src="images/pizzanesa.jpg" alt="" /></a>
                             <p>Deliciosa pizzanesa, senti el verdadero sabor del oregano!!</p>
-                            <a href="#" class="button">Read More</a>
+<!--                            <a href="#" class="button">Envio por 210$</a>-->
                         </section>
                     </div>
                     <div class="3u">
                         <section>
-                            <a href="#" class="image full"><img src="images/pics11.jpg" alt="" /></a>
-                            <p>Pellentesque viverra  enim. Tristique ante ut risus. Quisque dictum. Integer sagittis convallis elementum.</p>
-                            <a href="#" class="button">Read More</a>
+                            <a href="#" class="image full"><img src="images/pizza.jpg" alt="" /></a>
+                            <p>Nuestra clasica pizza de choclo, morron, jamon cocido y pepinillos!!</p>
+<!--                            <a href="#" class="button">Envio por 130$</a>-->
                         </section>
                     </div>
                     <div class="3u">
                         <section>
-                            <a href="#" class="image full"><img src="images/pics12.jpg" alt="" /></a>
-                            <p>Pellentesque viverra  enim. Quisque dictum. Integer nisl risus, sagittis convallis, rutrum id, elementum.</p>
-                            <a href="#" class="button">Read More</a>
+                            <a href="#" class="image full"><img src="images/rabas.jpg" alt="" /></a>
+                            <p>Deliciosas rabas de calamar</p>
+<!--                            <a href="#" class="button">Envio por 75$</a>-->
                         </section>
                     </div>
                     <div class="3u">
                         <section>
-                            <a href="#" class="image full"><img src="images/pics13.jpg" alt="" /></a>
-                            <p>Tristique ante ut risus. Quisque dictum. Integer nisl risus, sagittis convallis elementum.</p>
-                            <a href="#" class="button">Read More</a>
+                            <a href="#" class="image full"><img src="images/asado tira.jpg" alt="" /></a>
+                            <p>Nuestro clasico y jugoso asado de tira</p>
+<!--                            <a href="#" class="button">Envio por 65$!</a>-->
                         </section>
                     </div>
                 </div>
@@ -75,12 +75,11 @@ require './app/view/templates/header.php';
                     <div class="8u skel-cell-important">
                         <section id="content">
                             <header>
-                                <h2>Integer gravida nibh quis urna</h2>
-                                <span class="byline">Donec leo, vivamus fermentum nibh in augue praesent a lacus at urna congue rutrum</span>
+                                <h2>Una propuesta gastronomica distinta</h2>
+                                <span class="byline">Grandes criticos culinarios nos abalan</span>
                             </header>
-                            <p><a href="#" class="image full"><img src="images/pics02.jpg" alt=""></a></p>
-                            <p>This is <strong>Monochromed</strong>, a responsive HTML5 site template freebie by <a href="http://templated.co">TEMPLATED</a>. Released for free under the <a href="http://templated.co/license">Creative Commons Attribution</a> license, so use it for whatever (personal or commercial) &ndash; just give us credit! Check out more of our stuff at <a href="http://templated.co">our site</a> or follow us on <a href="http://twitter.com/templatedco">Twitter</a>.</p>
-                            <a href="#" class="button">Read More</a>
+                            <p><a href="#" class="image full"><img src="images/farola.jpg" alt=""></a></p>
+                            
                         </section>
                     </div>
                     <!-- /Content -->
@@ -89,18 +88,14 @@ require './app/view/templates/header.php';
                     <div id="sidebar" class="4u">
                         <section>
                             <header>
-                                <h2>Gravida praesent</h2>
-                                <span class="byline">Praesent lacus congue rutrum</span>
+                                <h2 style="visibility: hidden;">a</h2>
+                                <span class="byline visibility: hidden;"></span>
                             </header>
-                            <p>Donec leo, vivamus fermentum nibh in augue praesent a lacus at urna congue rutrum. Maecenas luctus lectus at sapien. Consectetuer adipiscing elit.</p>
-                            <ul class="default">
-                                <li><a href="#">Pellentesque quis lectus gravida blandit.</a></li>
-                                <li><a href="#">Lorem ipsum consectetuer adipiscing elit.</a></li>
-                                <li><a href="#">Phasellus nec nibh pellentesque congue.</a></li>
-                                <li><a href="#">Cras aliquam risus pellentesque pharetra.</a></li>
-                                <li><a href="#">Duis non metus commodo euismod lobortis.</a></li>
-                                <li><a href="#">Lorem ipsum dolor adipiscing elit.</a></li>
-                            </ul>
+                            <p>"El colorido y la música de La Farola lo vuelven un lugar donde se antoja comer, justo lo que imagino al pensar en la versión elegante, mas no sobria, de un restaurante de Milanesas"           .</p>
+                            <p> Guillermo Frido</p>
+                            <p>"Mozos con oficio, variedad, platos ricos, elaborados y de buena materia prima, además cuenta con menù infantil (varias opciones), juegos para niños y una galería divina para los dìas cálidos !"             Romina.</p>
+                            <p>Romina Sosa</p>
+                            
                         </section>
                     </div>
                     <!-- Sidebar -->
