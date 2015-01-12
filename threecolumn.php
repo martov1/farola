@@ -1,12 +1,10 @@
 <!DOCTYPE HTML>
 <!--
-        Monochromed by TEMPLATED
-    templated.co @templatedco
-    Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+       Joaquin b
 -->
 <html>
     <head>
-        <title>Monochromed by TEMPLATED</title>
+        <title>La Farola</title>
         <meta http-equiv="content-type" content="text/html; charset=utf-8" />
         <meta name="description" content="" />
         <meta name="keywords" content="" />
@@ -59,8 +57,8 @@
                     <div id="content" class="6u skel-cell-important">
                         <section>
                             <header>
-                                <h2>Two Sidebars</h2>
-                                <span class="byline">Praesent lacus at urna congue rutrum</span>
+                                <h2>Visita nuestras franquicias</h2>
+                              
                             </header>
                            <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d105145.50784393492!2d-58.461072624075406!3d-34.5586918254185!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sla+farola+restaurente!5e0!3m2!1ses-419!2sar!4v1421022720835" width="600" height="450" frameborder="0" style="border:0"></iframe>
                         </section>

@@ -12,7 +12,7 @@
             <!-- Nav -->
             <nav id="nav">
                 <ul>
-                    <li class="active"><a href="index.php">Pedi ahora!</a></li>
+                    <li class="active"><a href="index.php">Home</a></li>
                     <li><a href="threecolumn.php">Donde estamos</a></li>
                     <li><a href="twocolumn1.php">Contacto</a></li>
 
