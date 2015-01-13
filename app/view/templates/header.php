@@ -12,9 +12,9 @@
             <!-- Nav -->
             <nav id="nav">
                 <ul>
-                    <li class="active"><a href="index.php">Home</a></li>
+                    <li ><a href="index.php">Home</a></li>
                     <li><a href="Menu.php">Menu</a></li>
-                    <li><a href="contacto.php">Contacto</a></li>
+                    <li class="active"><a href="contacto.php">Contacto</a></li>
                     
 
                 </ul>

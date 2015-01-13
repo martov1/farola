@@ -25,7 +25,7 @@
 
         <!-- Header -->
         <?php
-        require './app/view/templates/header.php';
+        require '/../app/view/templates/header.php';
         ?>
         <!-- Header -->
 
@@ -75,7 +75,7 @@
 
         <!-- Footer -->
       <?php 
-        require './app/view/templates/footer.php';
+        require '../app/view/templates/footer.php';
         ?>
     </body>
 </html>
