@@ -90,7 +90,7 @@
 
         <!-- Footer -->
         <?php
-        require '/../app/view/templates/footer.php';
+        require '/../../app/view/templates/footer.php';
         ?>
     </body>
 </html>
